@@ -14,10 +14,10 @@
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ---
 
-### Tools:
+### Software and Tools:
 
 ![Git](https://img.shields.io/badge/git-e84d31?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Github-ccc?style=for-the-badge&logo=github&logoColor=black) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white") 
 
 ---
 
