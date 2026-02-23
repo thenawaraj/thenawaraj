@@ -12,4 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenawaraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thenawaraj&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenawaraj&theme=blue-green)](https://github.com/thenawaraj/github-readme-stats)
+
+[![Nawaraj's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thenawaraj&theme=blue-green)](https://github.com/thenawaraj/github-readme-streak-stats)-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenawaraj&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="Nawaraj" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenawaraj&theme=transparent&include_all_commits=true" />
